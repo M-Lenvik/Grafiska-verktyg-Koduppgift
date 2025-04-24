@@ -2,6 +2,35 @@
 
 Gläntan är ett naturnära boendekoncept där lugnet, skogen och sjön står i centrum. Här skapas en plats för återhämtning, med boenden som smälter in i naturen och upplevelser som följer skogens rytm. Designen är inspirerad av nordisk enkelhet – där varje detalj bjuder in till stillhet och närvaro.
 
+## 📚 Innehållsförteckning
+
+1. [Gläntan – Där naturen möter stillheten 🌿✨](#gläntan--där-naturen-möter-stillheten-)
+2. [Projektgruppen](#projektgruppen)  
+   1. [Designer](#designer)  
+   2. [Utvecklare](#utvecklare)
+3. [Designriktlinjer](#designriktlinjer)
+4. [Om designen ✨](#om-designen-)
+   1. [🎨 Färgval](#-färgval)  
+   2. [🔠 Typsnitt](#-typsnitt)  
+   3. [🖱️ UI-element och layout](#️-ui-element-och-layout)
+5. [🧑‍💻 Tech Stack](#-tech-stack)  
+   1. [Verktyg](#verktyg)
+6. [⚙️ Installation](#️-installation)
+7. [Printbilder från Figma](#printbilder-från-figma)
+   1. [Grafisk profil och komponenter](#grafisk-profil-och-komponenter)  
+   2. [Design för mobilen](#design-för-mobilen)  
+   3. [Design för tablet](#design-för-tablet)  
+   4. [Design för desktop](#design-för-desktop)
+8. [Printbilder från färdig webbplats](#printbilder-från-färdig-webbplats)  
+   1. [Mobilvy](#mobilvy)  
+   2. [Tabletvy](#tabletv)  
+   3. [Desktopvy](#desktopvy)
+9. [Kvalitetsgranskning av sidan](#kvalitetsgranskning-av-sidan)  
+   1. [Validering av HTML och CSS av startsidan](#validering-av-html-och-css-av-startsidan)  
+   2. [Validering av HTML och CSS av bokningssidan](#validering-av-html-och-css-av-bokningssidan)  
+   3. [Lighthouse analys startsidan](#lighthouse-analys-startsidan)  
+   4. [Lighthouse analys bokningssidan](#lighthouse-analys-bokningssidan)
+
 ## Projektgruppen
 
 ### Designer
