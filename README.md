@@ -217,3 +217,7 @@ Detta gjordes med hjälp av valideringsverktyg och lighthouse analys
 ![Lighthouse analys av mobil](https://github.com/Medieinstitutet/fed24d-grafiska-verktyg-panterkameleonterna/blob/main/assets/screenshot%20design/website%20screenshots/Lighthouse%20analys%20-%20Mobil%20-%20Booking.png)
 
 ![Lighthouse analys av desktop](https://github.com/Medieinstitutet/fed24d-grafiska-verktyg-panterkameleonterna/blob/main/assets/screenshot%20design/website%20screenshots/Lighthouse%20analys%20-%20Desktop%20-%20Booking.png)
+
+## Betyg
+![Betyg Grafiska verktyg för gränssnittsdesign individuell uppgift](https://github.com/user-attachments/assets/483d63eb-2f6f-40d4-a02c-a2d7cfef73d8)
+
